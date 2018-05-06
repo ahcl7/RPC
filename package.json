@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+	"bitcoin": "*"
+  },
+  "name": "rpc",
+  "version": "1.0.0",
+  "description": "i'm trying to understand rpc ",
+  "main": "rpc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ahcl",
+  "license": "ISC"
+}
