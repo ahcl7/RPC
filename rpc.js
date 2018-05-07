@@ -1,8 +1,8 @@
 var bitcoin = require('bitcoin');
 var client = new bitcoin.Client({
-	host: 'localhost',
-	port: 8334,
-	user: 'asdf',
+	host: '192.168.1.43',
+	port: 1234,
+	user: 'ahcl',
 	pass: 'ahcl123'
 });
 
